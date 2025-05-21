@@ -1,6 +1,6 @@
 # Three Musketeers – Turn-Based Strategy Game in Java 🛡️⚔️
 
-A fully playable turn-based strategy game built entirely in Java, based on the classic "Three Musketeers" board game. Developed as part of EECS 3311 (Object-Oriented Design) at York University, this project demonstrates advanced object-oriented programming, modular architecture, undo functionality, AI strategies, and automated testing.
+A fully playable turn-based strategy game built entirely in Java, based on the classic "Three Musketeers" board game. This project demonstrates advanced object-oriented programming, modular architecture, undo functionality, AI strategies, and automated testing.
 
 ---
 
